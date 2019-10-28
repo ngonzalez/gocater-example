@@ -12,5 +12,5 @@ bundle exec ruby process.rb 'data/test-data-10-exp-5.list' 'data/test-data.plist
 
 Run the examples
 ```
-bundle exec ruby example 'data/test-data.plist'
+bundle exec ruby example.rb 'data/test-data.plist'
 ```
